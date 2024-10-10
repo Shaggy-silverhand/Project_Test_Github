@@ -1,0 +1,9 @@
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
+Plugins/**/Intermediate/*
+Build/*
+!Build/**/*.ico
+
+*_BuiltData.uasset
